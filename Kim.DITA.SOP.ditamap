@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>Virginia Tech Department of English
+  Shanks Ice Cream Maker Instructions</title>
+ <topicref href="SOP.Intro.dita"/>
+ <topicref href="SOP.Machine.Features.dita"/>
+ <topicref href="SOP.Pre.Warnings.dita"/>
+ <topicref href="SOP.t-Clean.dita"/>
+ <topicref href="SOP.t-starting.machine.dita"/>
+ <topicref href="SOP.t-vanilla.dita"/>
+ <topicref href="SOP.t-peanut.dita"/>
+ <topicref href="SOP.t-mango.dita"/>
+ <topicref href="SOP.Troubleshooting.dita"/>
+ <topicref href="SOP.Ref.dita"/>
+</map>

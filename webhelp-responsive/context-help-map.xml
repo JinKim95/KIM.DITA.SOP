@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="concept_y42_h5j_px" path="SOP.Intro.html"/>
+   <appContext helpID="topic_py4_m13_qx" path="SOP.Machine.Features.html"/>
+   <appContext helpID="topic_xwt_bth_qx" path="SOP.Pre.Warnings.html"/>
+   <appContext helpID="task_s5r_2f3_qx" path="SOP.t-Clean.html"/>
+   <appContext helpID="startmachine" path="SOP.t-starting.machine.html"/>
+   <appContext helpID="task_ejr_hph_qx" path="SOP.t-vanilla.html"/>
+   <appContext helpID="task_dbd_kb3_qx" path="SOP.t-peanut.html"/>
+   <appContext helpID="task_evh_pd3_qx" path="SOP.t-mango.html"/>
+   <appContext helpID="trouble_tq3_wnh_qx" path="SOP.Troubleshooting.html"/>
+   <appContext helpID="reference_qkp_vg3_qx" path="SOP.Ref.html"/>
+</map>

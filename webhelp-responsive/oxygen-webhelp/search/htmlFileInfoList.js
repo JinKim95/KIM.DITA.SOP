@@ -1,0 +1,11 @@
+fil = new Array();
+fil["0"]= "SOP.Intro.html@@@Shanks Hall Ice Cream Maker@@@The Shanks Ice Cream Maker is a new machine that ll create amazingly tasty ice cream for English students and professors alike. If you’re tired of the unbearable stress and pressure of English courses...";
+fil["1"]= "SOP.Machine.Features.html@@@The Cuisinart Gelateria Features@@@Figure: Cuisinart Gelateria Ice Cream Machine Can make two quarts of ice cream, gelato, sorbet, or frozen yogurt in 20 minutes One button for turning off and on Control panel that includes churning...";
+fil["2"]= "SOP.Pre.Warnings.html@@@Preliminary Information and Warnings@@@Find all tools and ingredients in the Shanks Kitchen, room 308 For the mango frozen yogurt, the mangoes and yogurt has already been prepped and are in the fridge Clean Shanks Ice Cream Machine before...";
+fil["3"]= "SOP.Ref.html@@@References@@@Cuisinart Frozen Yogurt-Ice Cream and Sorbet Maker Recipe Booklet: Type Description PDF https://www.cuisinart.com/share/pdf/manuals/ice-35_recipe.pdf Cuisinart Instruction and Recipe Booklet ICE-60W...";
+fil["4"]= "SOP.Troubleshooting.html@@@Troubleshooting@@@The machine is functioning incorrectly Incorrect function was selected Reset the unit by pressing the Start/Stop button twice Unit is beeping every few minutes Press the Start/Stop button, the process...";
+fil["5"]= "SOP.t-Clean.html@@@How to Clean the Machine@@@These instructions will show you show to clean the machine effectively and safely...";
+fil["6"]= "SOP.t-mango.html@@@How to Create Mango Frozen Yogurt@@@This recipe will show you how to make a sweet and tangy mango frozen yogurt...";
+fil["7"]= "SOP.t-peanut.html@@@How to Create Peanut Butter Cup Ice Cream@@@This recipe will show you how to make a creamy and nutty peanut butter cup ice cream...";
+fil["8"]= "SOP.t-starting.machine.html@@@How to start the Ice Cream Machine@@@Required Machine Parts: 1 Freezer bowl 1 Mixing arm 1 Easy Lock Lid 1 Base and its Power Plug Take out the freezer bowl from the freezer. Put freezer bowl into the center of the base. The bowl will...";
+fil["9"]= "SOP.t-vanilla.html@@@How to Create Vanilla Ice Cream@@@This recipe will show you how to make a simple, yet delicious vanilla ice cream...";
