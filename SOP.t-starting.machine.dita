@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="startmachine">
+    <title>How to start the Ice Cream Machine</title>
+    <taskbody>
+            <prereq>
+            <p>Required Machine Parts:</p>
+            <ul>
+                <li>1 Freezer bowl</li>
+                <li>1 Mixing arm</li>
+                <li>1 Easy Lock Lid</li>
+                <li>1 Base and its Power Plug</li> 
+            </ul>
+            </prereq>
+        <steps>
+                <step><cmd>Take out the freezer bowl from the freezer.</cmd></step>
+                <step><cmd>Put freezer bowl into the center of the base.</cmd>
+                    <substeps>
+                    <substep><cmd>The bowl will defrost immediately after removing from freezer, use quickly.</cmd></substep>
+                    </substeps></step>
+                <step><cmd>Rest mixing arm in freezer bowl, it should not be tight, the circle side facing up.</cmd></step>
+                <step><cmd>Place the Easy Lock lid on the base.</cmd>
+                    <substeps>
+                    <substep><cmd>Oriented to the right of center.</cmd></substep>
+                    <substep><cmd>Turn clockwise to lock.</cmd></substep>
+                    </substeps>
+                </step>
+                <step><cmd>Plug in the base’s power cord and the machine will be ready.</cmd></step>
+         </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_ejr_hph_qx">
+    <title>How to Create Vanilla Ice Cream</title>
+    <shortdesc>This recipe will show you how to make a simple, yet delicious vanilla ice cream</shortdesc>
+    <taskbody>
+        <prereq>
+            <xref href="SOP.Pre.Warnings.dita"></xref>
+            <xref href="SOP.t-starting.machine.dita"></xref>
+            <xref href="SOP.t-Clean.dita"></xref>
+            <p>And if machine is not working properly, refer to:<xref href="SOP.Troubleshooting.dita"></xref></p>
+            <p>Required Ingredients/Tools:</p>
+            <ul>
+                <li>1½ cups whole milk </li>
+                <li>1 cup plus 2 tablespoons granulated sugar</li>
+                <li>A pinch of table salt</li>
+                <li>1½ tablespoons pure vanilla extract</li>
+                <li>3 cups heavy cream </li>
+                <li>Medium bowl</li>
+                <li>Whisk</li>
+                <li>Ice Cream Machine (includes measuring cup)</li>
+            </ul><p>Makes 7 cups of ice cream, purer vanilla extract will create a stronger vanilla taste</p>
+        </prereq>
+        <steps>
+            <step>
+                <cmd>Start and prepare the ice cream machine</cmd>
+            </step>
+            <step>
+                <cmd>Pour 1½ cups of milk, 1 cup plus 2 tablespoons of granulated sugar, and a pinch of table salt into the bowl</cmd>
+            </step>
+            <step>
+                <cmd>Whisk mixture until sugar dissolves</cmd>
+            </step>
+            <step>
+                <cmd>Pour 3 cups of heavy cream and 1½ tablespoons of pure vanilla extract into the bowl</cmd>
+            </step>
+            <step>
+                <cmd>Stir mixture and cover bowl</cmd>
+            </step>
+            <step>
+                <cmd>Refrigerate for 1 to 2 hours</cmd>
+            </step>
+            <step>
+                <cmd>Take out bowl and set it near you</cmd>
+            </step>
+            <step>
+                <cmd>Press the ice cream button on the ice cream maker’s control panel</cmd>
+            </step>
+            <step>
+                <cmd>Press the start button on the machine and the arm will stir</cmd>
+            </step>
+            <step>
+                <cmd>Pour the mixture from the bowl into the ingredients spout</cmd>
+            </step>
+            <step>
+                <cmd>Cover the spout with a measuring cup</cmd>
+            </step>
+            <step>
+                <cmd>Wait 15-40 minutes depending on amount of ice cream created and thickness desired</cmd>
+            </step>
+            <step>
+                <cmd>Wait 15 minutes for ice cream to settle</cmd>
+            </step>
+            <step>
+                <cmd>Scoop out of freezer bowl and enjoy</cmd>
+            </step>
+        </steps>
+        <result>
+            <fig>
+                <title>Vanilla Icecream</title>
+                <image href="vanilla%20ice%20cream.jpg" id="image_gpt_vyh_qx" height="250" width="250"/>
+            </fig>
+        </result>
+    </taskbody>
+</task>

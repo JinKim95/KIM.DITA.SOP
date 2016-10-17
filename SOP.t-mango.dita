@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_evh_pd3_qx">
+    <title>How to Create Mango Frozen Yogurt</title>
+    <shortdesc>This recipe will show you how to make a sweet and tangy mango frozen yogurt</shortdesc>
+    <taskbody>
+        <prereq>
+            <xref href="SOP.Pre.Warnings.dita"></xref>
+            <xref href="SOP.t-starting.machine.dita"></xref>
+            <xref href="SOP.t-Clean.dita"></xref>
+            <p>And if machine is not working properly, refer to:<xref href="SOP.Troubleshooting.dita"></xref></p>
+            <p>Required Ingredients/Tools:</p>
+            <ul>
+                <li>7 cups low-fat plain yogurt (pre-strained, 2 to 4 hours)</li>
+                <li>²∕³ cup granulated sugar</li>
+                <li>5 mangoes (peeled, pitted and coarsely chopped)</li>
+                <li>2 teaspoons fresh lime juice</li>
+                <li>Large mixing bowl</li>
+                <li>Blender</li>
+                <li>Whisk</li>
+                <li>Ice Cream Machine (includes measuring cup)</li>
+            </ul>
+            <p>Makes about 8 cups, fresher mangoes will result in better tasting frozen yogurt</p>
+        </prereq>
+        <steps>
+            <step>
+                <cmd>Start and prepare the ice cream machine</cmd>
+            </step>
+            <step>
+                <cmd>Whisk the yogurt and sugar together</cmd>
+            </step>
+            <step>
+                <cmd>Purée 5 mangoes with the 2 teaspoons of lime juice</cmd>
+            </step>
+            <step>
+                <cmd>Add 1 cup of the yogurt mixture in the blender</cmd>
+            </step>
+            <step>
+                <cmd>Pour the yogurt/sugar mixture into the blender</cmd>
+            </step>
+            <step>
+                <cmd>Mix the two blends together</cmd>
+            </step>
+            <step>
+                <cmd>Cover and refrigerate 1 to 2 hours</cmd>
+            </step>
+            <step>
+                <cmd>Press the ice cream button on the ice cream maker’s control panel</cmd>
+            </step>
+            <step>
+                <cmd>Press the start button on the machine and the arm will stir</cmd>
+            </step>
+            <step>
+                <cmd>Pour the mixture from the bowl into the ingredients spout</cmd>
+            </step>
+            <step>
+                <cmd>Cover the spout with a measuring cup</cmd>
+            </step>
+            <step>
+                <cmd>Wait 30-35 minutes for thickness</cmd>
+            </step>
+            <step>
+                <cmd>Wait 15 minutes for ice cream to settle</cmd>
+            </step>
+            <step>
+                <cmd>Scoop out of freezer bowl and enjoy</cmd>
+            </step>
+        </steps>
+        <result>
+            <fig>
+                <title>Mango Frozen Yogurt</title>
+                <image href="mango%20frozen%20yogurt.JPG" width="250" height="250" id="image_f2s_v23_qx"/>
+            </fig>
+        </result>
+    </taskbody>
+</task>

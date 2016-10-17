@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_dbd_kb3_qx">
+    <title>How to Create Peanut Butter Cup Ice Cream</title>
+    <shortdesc>This recipe will show you how to make a creamy and nutty peanut butter cup ice cream</shortdesc>
+    <taskbody>
+        <prereq>
+            <xref href="SOP.Pre.Warnings.dita"></xref>
+            <xref href="SOP.t-starting.machine.dita"></xref>
+            <xref href="SOP.t-Clean.dita"></xref>
+            <p>And if machine is not working properly, refer to:<xref href="SOP.Troubleshooting.dita"></xref></p>
+            <p>Special warning for this recipe only: Contains nuts</p>
+            <p>Required Ingredients/Tools:</p>
+            <ul>
+                <li>1¹∕³ cups peanut butter</li>
+                <li>¾ cup granulated sugar</li>
+                <li>1²∕³ cups milk</li>
+                <li>2¼ cups heavy cream</li>
+                <li>1½ teaspoons pure vanilla extract</li>
+                <li>1¼ cups chopped peanut butter cups</li>
+                <li>Medium mixing bowl</li>
+                <li>Ice Cream Machine (includes measuring cup)</li>
+            </ul>
+            <p>Makes about 8 cups, richer and higher quality peanut butter will make better ice cream</p>
+        </prereq>
+        <steps>
+            <step>
+                <cmd>Start and prepare the ice cream machine</cmd>
+            </step>
+            <step>
+                <cmd>Put  1¹∕³ of peanut butter and ¾ cup of sugar into bowl</cmd>
+            </step>
+            <step>
+                <cmd>Mix with hand mixer until peanut butter and sugar is smooth</cmd>
+            </step>
+            <step>
+                <cmd>Add the 1²∕³  milk</cmd>
+            </step>
+            <step>
+                <cmd>Stir in the 2¼ cups of heavy cream and 1½ teaspoons of vanilla extract</cmd>
+            </step>
+            <step>
+                <cmd>Cover and refrigerate 1 to 2 hours</cmd>
+            </step>
+            <step>
+                <cmd>Take out bowl and set it near you</cmd>
+            </step>
+            <step>
+                <cmd>Press the ice cream button on the ice cream maker’s control panel</cmd>
+            </step>
+            <step>
+                <cmd>Press the start button on the machine and the arm will stir</cmd>
+            </step>
+            <step>
+                <cmd>Pour the mixture from the bowl into the ingredients spout</cmd>
+            </step>
+            <step>
+                <cmd>Cover the spout with a measuring cup</cmd>
+            </step>
+            <step>
+                <cmd>Wait 30-35 minutes for thickness</cmd>
+            </step>
+            <step>
+                <cmd>Add chopped candy through ingredients spout 5 minutes before completion</cmd>
+            </step>
+            <step>
+                <cmd>Wait for the machine to finish mixing the candy and the ice cream</cmd>
+            </step>
+            <step>
+                <cmd>Wait 15 minutes for ice cream to settle</cmd>
+            </step>
+            <step>
+                <cmd>Scoop out of freezer bowl and enjoy</cmd>
+            </step>
+        </steps>
+        <result>
+            <fig>
+                <title>Peanut Butter Cup Icecream</title>
+                <image href="peanutbuttercup.jpg" id="image_nfw_zc3_qx" height="250" width="250"/>
+            </fig>
+        </result>
+    </taskbody>
+</task>

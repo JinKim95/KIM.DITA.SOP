@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_py4_m13_qx">
+  <title>The Cuisinart Gelateria Features</title>
+  <body>
+    <fig>
+      <title>Cuisinart Gelateria Ice Cream Machine</title>
+      <image href="machine.jpg" id="image_ayf_w13_qx"/>
+    </fig>
+    <ul>
+      <li>Can make two quarts of ice cream, gelato, sorbet, or frozen yogurt in 20 minutes</li>
+      
+      <li>One button for turning off and on</li>
+      
+      <li>Control panel that includes churning speed control as well as three texture presets</li>
+      
+      <li>Cap with a measure cup to ensure precise ingredient measurements</li>
+      
+      <li>Easy-Lock lid with a ingredients spout to put in your ice cream recipes</li>
+      
+      <li>Mixing arm to churn the ice cream</li>
+      
+      <li>Freezer bowl to create fast freezing</li>
+    </ul>
+  </body>
+</topic>

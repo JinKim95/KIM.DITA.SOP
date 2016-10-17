@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_y42_h5j_px">
+ <title>Shanks Hall Ice Cream Maker </title>
+ <conbody>
+  <p>The Shanks Ice Cream Maker is a new machine that'll create amazingly tasty ice cream for
+      English students and professors alike. If you’re tired of the unbearable stress and pressure
+      of English courses or English research, come on over to the Shanks Ice Cream Maker located in
+      room 380 Shanks kitchen! It can create your favorite flavor of delicious frozen yogurt,
+      gelato, sorbet, or ice cream in only a fraction of time! Read these simple instructions to
+      start enjoying ice cream! </p>
+   <fig>
+    <title>Shanks Hall</title>
+     <image href="SHANKS.jpg" id="image_i4r_4h3_qx" width="250" height="250"/>
+   </fig>
+ </conbody>
+</concept>

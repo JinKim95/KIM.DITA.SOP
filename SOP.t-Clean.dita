@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_s5r_2f3_qx">
+    <title>How to Clean the Machine</title>
+    <shortdesc>These instructions will show you show to clean the machine effectively and safely</shortdesc>
+    <taskbody>
+        <prereq>
+            <p>Do not immerse the motor base in water</p>  
+            <p>Do not clean any of the parts with abrasive cleaners or hard implements</p>                                                                                                 
+        </prereq>
+        <context>
+            <p>Cleaning the machine should be done after every use of the machine to ensure users stay healthy and the machine is not damaged</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Dissemble the machine by parts</cmd>
+            </step>
+            <step>
+                <cmd>Submerge the mixing arm and lid in warm soapy water</cmd>
+            </step>
+            <step>
+                <cmd>Clean thoroughly with a sponge</cmd>
+            </step>
+            <step>
+                <cmd>Wipe clean the motor base with damp cloth</cmd>
+            </step>
+            <step>
+                <cmd>Dry all parts thoroughly</cmd>
+            </step>
+            <step>
+                <cmd>Leave parts on dry towel for next user</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
